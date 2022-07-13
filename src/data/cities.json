@@ -1,0 +1,121 @@
+[{
+    "city": "Delhi",
+    "lat": 28.6600,
+    "long": 77.2300
+  },
+  {
+    "city": "Mumbai",
+    "lat": 18.9667,
+    "long": 72.8333
+  },
+  {
+    "city": "Kolkata",
+    "lat": 22.5411,
+    "long": 88.3378
+  },
+  {
+    "city": "Bangalore",
+    "lat": 12.9699,
+    "long": 77.5980
+  },
+  {
+    "city": "Zürich",
+    "lat": 47.3786,
+    "long": 8.5400
+  },
+  {
+    "city": "Geneva",
+    "lat": 46.2000,
+    "long": 6.1500
+  },
+  {
+    "city": "Basel",
+    "lat": 47.5606,
+    "long": 7.5906
+  },
+  {
+    "city": "Lausanne",
+    "lat": 46.5333,
+    "long": 6.6333
+  },
+  {
+    "city": "Paris",
+    "lat": 48.8566,
+    "long": 2.3522
+  },
+  {
+    "city": "Nice",
+    "lat": 43.7034,
+    "long": 7.2663
+  },
+  {
+    "city": "Sydney",
+    "lat": -33.8650,
+    "long": 151.2094
+  },
+  {
+    "city": "Melbourne",
+    "lat": -37.8136,
+    "long": 144.9631
+  },
+  {
+    "city": "Brisbane",
+    "lat": -27.4678,
+    "long": 153.0281
+  },
+  {
+    "city": "Perth",
+    "lat": -31.9522,
+    "long": 115.8589
+  },
+  {
+    "city": "London",
+    "lat": 51.5072,
+    "long": -0.1275
+  },
+  {
+    "city": "Birmingham",
+    "lat": 52.4800,
+    "long": -1.9025
+  },
+  {
+    "city": "Manchester",
+    "lat": 53.4794,
+    "long": -2.2453
+  },
+  {
+    "city": "Leeds",
+    "lat": 53.7997,
+    "long": -1.5492
+  },
+  {
+    "city": "Johannesburg",
+    "lat": -26.2044,
+    "long": 28.0416
+  },
+  {
+    "city": "Vereeniging",
+    "lat": -26.6736,
+    "long": 27.9319
+  },
+  {
+    "city": "Pietermaritzburg",
+    "lat": -29.5833,
+    "long": 30.4167
+  },
+  {
+    "city": "Kyiv",
+    "lat": 50.4500,
+    "long": 30.5236
+  },
+  {
+    "city": "Kharkiv",
+    "lat": 50.0000,
+    "long": 36.2292
+  },
+  {
+    "city": "Odesa",
+    "lat": 46.4775,
+    "long": 30.7326
+  }
+]
